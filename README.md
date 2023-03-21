@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhishek Ghodela</h1>
 <h3 align="center">Software Developer</h3>
 
+<img align="center" width="500" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghodelabhi&label=Profile%20views&color=0e75b6&style=flat" alt="ghodelabhi" /> </p>
 
 - 💬 Ask me about **Golang**
